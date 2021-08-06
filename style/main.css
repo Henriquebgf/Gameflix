@@ -38,7 +38,7 @@ header nav a:hover {
 }
 
 /*Filme Principal*/
-.filme-principal {
+.jogo-principal {
   font-size: 16px;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%),
     url("../img/capa-gta.jpg");
@@ -106,14 +106,13 @@ main {
 
 .lista-carrosel {
   font-size: 16px;
-  color: white;
+  color: #fffafa;
   margin: 0 auto;
   padding: 0 4%;
-  font-family: " sans-serif,Arial, Helvetica Neue", Helvetica;
-
+  font-family: " Helvetica Neue,sans-serif,Arial", Helvetica;
   text-decoration: none;
 }
 
 .carrosel-filmes {
-  margin-top: 5px;
+  margin: 5px 3px 10px 3px;
 }
